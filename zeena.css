@@ -569,7 +569,7 @@
     background-color: transparent;
 }
 #scoreCount::after {
-    content: 'Vaxei';
+    content: 'Zeena';
     font-size: 25px;
     position: fixed;
     color: white;
