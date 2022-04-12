@@ -1,0 +1,16 @@
+@import url();
+/*DO NOT TOUCH*/
+/*css was made by Abyy#5333*/
+/*I reused some codes from yukiaim css by tae#4444*/
+
+
+:root{
+    --cpolbar: var(--ver1light);
+    --song: "nekodex - circles";
+    /*Cpol heathbar versions. Values: ver1light, ver1dark and ver2 */
+
+    --ver1light: url(https://cdn.discordapp.com/attachments/837694478448984124/858575698398412830/CPOLHPBAR.png);
+   /*no dark, sorry*/
+    --ver2: url(https://cdn.discordapp.com/attachments/837694478448984124/858998038093365278/when_the_scorebar.png) /* Light mode only :(( */
+}
+*/Make edits below*/
